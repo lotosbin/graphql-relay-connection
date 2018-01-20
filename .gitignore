@@ -35,3 +35,5 @@ node_modules
 # Compiled source
 .nyc_output
 lib
+
+.idea/
