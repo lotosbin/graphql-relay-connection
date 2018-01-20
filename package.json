@@ -36,7 +36,9 @@
     "url": "https://github.com/joonhocho/graphql-relay-connection/issues"
   },
   "homepage": "https://github.com/joonhocho/graphql-relay-connection#readme",
-  "dependencies": {},
+  "dependencies": {
+    "mongodb": "^3.0.1"
+  },
   "devDependencies": {
     "babel-cli": "^6.9.0",
     "babel-plugin-syntax-flow": "^6.8.0",
